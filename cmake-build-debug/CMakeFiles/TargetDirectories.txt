@@ -1,0 +1,3 @@
+/home/yair/CLionProjects/osex4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yair/CLionProjects/osex4/cmake-build-debug/CMakeFiles/osex4.dir
+/home/yair/CLionProjects/osex4/cmake-build-debug/CMakeFiles/edit_cache.dir
